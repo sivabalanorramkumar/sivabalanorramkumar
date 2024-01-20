@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sivabalan
 - 👀 I’m interested in Game dev
-- 🌱 I’m currently learning unity & blender
+- 🌱 I’m currently learning unity,blender,front end 
 - 💞️ I’m looking to collaborate on some startup projects 
 - 📫 How to reach me dsbtechtamil@gmail.com
 - 
